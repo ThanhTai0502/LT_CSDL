@@ -1,0 +1,33 @@
+D:\Kenn\LTCSDL\Lab03_Demo\Lab03_Demo\obj\Debug\Lab03_Demo.csproj.AssemblyReference.cache
+D:\Kenn\LTCSDL\Lab03_Demo\Lab03_Demo\obj\Debug\Lab03_Demo.frmSinhVien.resources
+D:\Kenn\LTCSDL\Lab03_Demo\Lab03_Demo\obj\Debug\Lab03_Demo.Properties.Resources.resources
+D:\Kenn\LTCSDL\Lab03_Demo\Lab03_Demo\obj\Debug\Lab03_Demo.csproj.GenerateResource.cache
+D:\Kenn\LTCSDL\Lab03_Demo\Lab03_Demo\obj\Debug\Lab03_Demo.csproj.CoreCompileInputs.cache
+D:\Kenn\LTCSDL\Lab03_Demo\Lab03_Demo\bin\Debug\Lab03_Demo.exe.config
+D:\Kenn\LTCSDL\Lab03_Demo\Lab03_Demo\bin\Debug\Lab03_Demo.exe
+D:\Kenn\LTCSDL\Lab03_Demo\Lab03_Demo\bin\Debug\Lab03_Demo.pdb
+D:\Kenn\LTCSDL\Lab03_Demo\Lab03_Demo\obj\Debug\Lab03_Demo.exe
+D:\Kenn\LTCSDL\Lab03_Demo\Lab03_Demo\obj\Debug\Lab03_Demo.pdb
+D:\Kenn\LTCSDL\Lab03_Demo\Lab03_Demo\obj\Debug\Lab03_Demo.frmTuyChon.resources
+E:\BT\Lab03_Demo\Lab03_Demo\bin\Debug\Lab03_Demo.exe.config
+E:\BT\Lab03_Demo\Lab03_Demo\bin\Debug\Lab03_Demo.exe
+E:\BT\Lab03_Demo\Lab03_Demo\bin\Debug\Lab03_Demo.pdb
+E:\BT\Lab03_Demo\Lab03_Demo\obj\Debug\Lab03_Demo.csprojAssemblyReference.cache
+E:\BT\Lab03_Demo\Lab03_Demo\obj\Debug\Lab03_Demo.frmSinhVien.resources
+E:\BT\Lab03_Demo\Lab03_Demo\obj\Debug\Lab03_Demo.frmTuyChon.resources
+E:\BT\Lab03_Demo\Lab03_Demo\obj\Debug\Lab03_Demo.Properties.Resources.resources
+E:\BT\Lab03_Demo\Lab03_Demo\obj\Debug\Lab03_Demo.csproj.GenerateResource.cache
+E:\BT\Lab03_Demo\Lab03_Demo\obj\Debug\Lab03_Demo.csproj.CoreCompileInputs.cache
+E:\BT\Lab03_Demo\Lab03_Demo\obj\Debug\Lab03_Demo.exe
+E:\BT\Lab03_Demo\Lab03_Demo\obj\Debug\Lab03_Demo.pdb
+F:\môn lập trình cơ sở dữ liệu\Lab03_Demo\Lab03_Demo\bin\Debug\Lab03_Demo.exe.config
+F:\môn lập trình cơ sở dữ liệu\Lab03_Demo\Lab03_Demo\bin\Debug\Lab03_Demo.exe
+F:\môn lập trình cơ sở dữ liệu\Lab03_Demo\Lab03_Demo\bin\Debug\Lab03_Demo.pdb
+F:\môn lập trình cơ sở dữ liệu\Lab03_Demo\Lab03_Demo\obj\Debug\Lab03_Demo.csproj.AssemblyReference.cache
+F:\môn lập trình cơ sở dữ liệu\Lab03_Demo\Lab03_Demo\obj\Debug\Lab03_Demo.frmSinhVien.resources
+F:\môn lập trình cơ sở dữ liệu\Lab03_Demo\Lab03_Demo\obj\Debug\Lab03_Demo.frmTuyChon.resources
+F:\môn lập trình cơ sở dữ liệu\Lab03_Demo\Lab03_Demo\obj\Debug\Lab03_Demo.Properties.Resources.resources
+F:\môn lập trình cơ sở dữ liệu\Lab03_Demo\Lab03_Demo\obj\Debug\Lab03_Demo.csproj.GenerateResource.cache
+F:\môn lập trình cơ sở dữ liệu\Lab03_Demo\Lab03_Demo\obj\Debug\Lab03_Demo.csproj.CoreCompileInputs.cache
+F:\môn lập trình cơ sở dữ liệu\Lab03_Demo\Lab03_Demo\obj\Debug\Lab03_Demo.exe
+F:\môn lập trình cơ sở dữ liệu\Lab03_Demo\Lab03_Demo\obj\Debug\Lab03_Demo.pdb
