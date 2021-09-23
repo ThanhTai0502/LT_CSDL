@@ -1,0 +1,10 @@
+F:\môn lập trình cơ sở dữ liệu\1911200_TranThanhTai_Lab04\1911200_TranThanhTai_Lab04\1911200_TranThanhTai_Lab04\bin\Debug\1911200_TranThanhTai_Lab04.exe.config
+F:\môn lập trình cơ sở dữ liệu\1911200_TranThanhTai_Lab04\1911200_TranThanhTai_Lab04\1911200_TranThanhTai_Lab04\bin\Debug\1911200_TranThanhTai_Lab04.exe
+F:\môn lập trình cơ sở dữ liệu\1911200_TranThanhTai_Lab04\1911200_TranThanhTai_Lab04\1911200_TranThanhTai_Lab04\bin\Debug\1911200_TranThanhTai_Lab04.pdb
+F:\môn lập trình cơ sở dữ liệu\1911200_TranThanhTai_Lab04\1911200_TranThanhTai_Lab04\1911200_TranThanhTai_Lab04\obj\Debug\1911200_TranThanhTai_Lab04.csproj.AssemblyReference.cache
+F:\môn lập trình cơ sở dữ liệu\1911200_TranThanhTai_Lab04\1911200_TranThanhTai_Lab04\1911200_TranThanhTai_Lab04\obj\Debug\_1911200_TranThanhTai_Lab04.Form1.resources
+F:\môn lập trình cơ sở dữ liệu\1911200_TranThanhTai_Lab04\1911200_TranThanhTai_Lab04\1911200_TranThanhTai_Lab04\obj\Debug\_1911200_TranThanhTai_Lab04.Properties.Resources.resources
+F:\môn lập trình cơ sở dữ liệu\1911200_TranThanhTai_Lab04\1911200_TranThanhTai_Lab04\1911200_TranThanhTai_Lab04\obj\Debug\1911200_TranThanhTai_Lab04.csproj.GenerateResource.cache
+F:\môn lập trình cơ sở dữ liệu\1911200_TranThanhTai_Lab04\1911200_TranThanhTai_Lab04\1911200_TranThanhTai_Lab04\obj\Debug\1911200_TranThanhTai_Lab04.csproj.CoreCompileInputs.cache
+F:\môn lập trình cơ sở dữ liệu\1911200_TranThanhTai_Lab04\1911200_TranThanhTai_Lab04\1911200_TranThanhTai_Lab04\obj\Debug\1911200_TranThanhTai_Lab04.exe
+F:\môn lập trình cơ sở dữ liệu\1911200_TranThanhTai_Lab04\1911200_TranThanhTai_Lab04\1911200_TranThanhTai_Lab04\obj\Debug\1911200_TranThanhTai_Lab04.pdb
