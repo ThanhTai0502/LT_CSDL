@@ -1,0 +1,11 @@
+F:\môn lập trình cơ sở dữ liệu\1911200_TranThanhTaiLab6_CTK43\1911200_TranThanhTaiLab6_CTK43\bin\Debug\1911200_TranThanhTaiLab6_CTK43.exe.config
+F:\môn lập trình cơ sở dữ liệu\1911200_TranThanhTaiLab6_CTK43\1911200_TranThanhTaiLab6_CTK43\bin\Debug\1911200_TranThanhTaiLab6_CTK43.exe
+F:\môn lập trình cơ sở dữ liệu\1911200_TranThanhTaiLab6_CTK43\1911200_TranThanhTaiLab6_CTK43\bin\Debug\1911200_TranThanhTaiLab6_CTK43.pdb
+F:\môn lập trình cơ sở dữ liệu\1911200_TranThanhTaiLab6_CTK43\1911200_TranThanhTaiLab6_CTK43\obj\Debug\1911200_TranThanhTaiLab6_CTK43.csproj.AssemblyReference.cache
+F:\môn lập trình cơ sở dữ liệu\1911200_TranThanhTaiLab6_CTK43\1911200_TranThanhTaiLab6_CTK43\obj\Debug\_1911200_TranThanhTaiLab6_CTK43.Form1.resources
+F:\môn lập trình cơ sở dữ liệu\1911200_TranThanhTaiLab6_CTK43\1911200_TranThanhTaiLab6_CTK43\obj\Debug\_1911200_TranThanhTaiLab6_CTK43.Properties.Resources.resources
+F:\môn lập trình cơ sở dữ liệu\1911200_TranThanhTaiLab6_CTK43\1911200_TranThanhTaiLab6_CTK43\obj\Debug\1911200_TranThanhTaiLab6_CTK43.csproj.GenerateResource.cache
+F:\môn lập trình cơ sở dữ liệu\1911200_TranThanhTaiLab6_CTK43\1911200_TranThanhTaiLab6_CTK43\obj\Debug\1911200_TranThanhTaiLab6_CTK43.csproj.CoreCompileInputs.cache
+F:\môn lập trình cơ sở dữ liệu\1911200_TranThanhTaiLab6_CTK43\1911200_TranThanhTaiLab6_CTK43\obj\Debug\1911200_TranThanhTaiLab6_CTK43.exe
+F:\môn lập trình cơ sở dữ liệu\1911200_TranThanhTaiLab6_CTK43\1911200_TranThanhTaiLab6_CTK43\obj\Debug\1911200_TranThanhTaiLab6_CTK43.pdb
+F:\môn lập trình cơ sở dữ liệu\1911200_TranThanhTaiLab6_CTK43\1911200_TranThanhTaiLab6_CTK43\obj\Debug\_1911200_TranThanhTaiLab6_CTK43.FoodForm.resources
