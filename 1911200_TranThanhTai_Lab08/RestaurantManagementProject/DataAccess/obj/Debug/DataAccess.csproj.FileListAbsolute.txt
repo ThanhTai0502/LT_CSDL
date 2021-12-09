@@ -1,0 +1,6 @@
+F:\môn lập trình cơ sở dữ liệu\LTCDSL-master\1911213_PhanThiHoaiThuong_Lab08\RestaurantManagementProject\DataAccess\bin\Debug\DataAccess.dll
+F:\môn lập trình cơ sở dữ liệu\LTCDSL-master\1911213_PhanThiHoaiThuong_Lab08\RestaurantManagementProject\DataAccess\bin\Debug\DataAccess.pdb
+F:\môn lập trình cơ sở dữ liệu\LTCDSL-master\1911213_PhanThiHoaiThuong_Lab08\RestaurantManagementProject\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+F:\môn lập trình cơ sở dữ liệu\LTCDSL-master\1911213_PhanThiHoaiThuong_Lab08\RestaurantManagementProject\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+F:\môn lập trình cơ sở dữ liệu\LTCDSL-master\1911213_PhanThiHoaiThuong_Lab08\RestaurantManagementProject\DataAccess\obj\Debug\DataAccess.dll
+F:\môn lập trình cơ sở dữ liệu\LTCDSL-master\1911213_PhanThiHoaiThuong_Lab08\RestaurantManagementProject\DataAccess\obj\Debug\DataAccess.pdb

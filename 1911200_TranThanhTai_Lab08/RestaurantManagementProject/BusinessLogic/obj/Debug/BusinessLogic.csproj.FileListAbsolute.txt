@@ -1,0 +1,9 @@
+F:\môn lập trình cơ sở dữ liệu\LTCDSL-master\1911213_PhanThiHoaiThuong_Lab08\RestaurantManagementProject\BusinessLogic\bin\Debug\BusinessLogic.dll
+F:\môn lập trình cơ sở dữ liệu\LTCDSL-master\1911213_PhanThiHoaiThuong_Lab08\RestaurantManagementProject\BusinessLogic\bin\Debug\BusinessLogic.pdb
+F:\môn lập trình cơ sở dữ liệu\LTCDSL-master\1911213_PhanThiHoaiThuong_Lab08\RestaurantManagementProject\BusinessLogic\bin\Debug\DataAccess.dll
+F:\môn lập trình cơ sở dữ liệu\LTCDSL-master\1911213_PhanThiHoaiThuong_Lab08\RestaurantManagementProject\BusinessLogic\bin\Debug\DataAccess.pdb
+F:\môn lập trình cơ sở dữ liệu\LTCDSL-master\1911213_PhanThiHoaiThuong_Lab08\RestaurantManagementProject\BusinessLogic\obj\Debug\BusinessLogic.csproj.AssemblyReference.cache
+F:\môn lập trình cơ sở dữ liệu\LTCDSL-master\1911213_PhanThiHoaiThuong_Lab08\RestaurantManagementProject\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+F:\môn lập trình cơ sở dữ liệu\LTCDSL-master\1911213_PhanThiHoaiThuong_Lab08\RestaurantManagementProject\BusinessLogic\obj\Debug\BusinessLogic.csproj.CopyComplete
+F:\môn lập trình cơ sở dữ liệu\LTCDSL-master\1911213_PhanThiHoaiThuong_Lab08\RestaurantManagementProject\BusinessLogic\obj\Debug\BusinessLogic.dll
+F:\môn lập trình cơ sở dữ liệu\LTCDSL-master\1911213_PhanThiHoaiThuong_Lab08\RestaurantManagementProject\BusinessLogic\obj\Debug\BusinessLogic.pdb
